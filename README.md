@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Front End in Web Dev, Python, Java DSA, CEH
+- 🌱 I’m currently learning Front End in Web Dev, also exploring Python, Java DSA, CEH, IBM Cybersecurity Analyst Professional Certificate
 - 📫 How to reach me: santoshsulakhe39@gmail.com
 <!--
 - 🔭 I’m currently working on ...
