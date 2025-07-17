@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ssulakhe39
+# Hi there! 👋 I'm Santosh Kiran
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Application+Developer+%7C+SDE;Aerospace+%26+Defence+Industry;Full-Stack+Web+Developer;Always+learning+new+tech!" alt="Typing SVG" />
